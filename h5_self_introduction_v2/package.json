@@ -39,7 +39,7 @@
     "stylelint": "6.6.0",
     "stylelint-config-standard": "9.0.0",
     "url-loader": "^0.5.7",
-    "webpack": "1.12.12",
+    "webpack": "5.94.0",
     "webpack-dev-server": "1.14.1"
   },
   "dependencies": {
